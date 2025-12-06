@@ -1,4 +1,4 @@
-# UniProtKB Protein Finder
+# UniProtKB Sequence & Domain Explorer
 
 A modern, responsive Tkinter GUI application that searches UniProtKB for proteins, retrieves their sequences and domain information, and displays results instantly in the interface. Designed with clean code architecture and API integration best practices.
 
